@@ -32,8 +32,7 @@ Run the cells sequentially to reproduce the analysis.
 
 Modify or extend the analysis as needed.
 
-**Data
-**
+**Data**
 The dataset includes various attributes related to call center interactions, such as:
 
 Customer demographics
